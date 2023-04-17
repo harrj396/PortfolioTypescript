@@ -1,5 +1,5 @@
-# New Project
-
+# TypeScript Portfolio
+> ✨ Portfolio made with typescript!
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
